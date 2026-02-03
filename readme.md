@@ -35,6 +35,7 @@ Neste projeto, o foco foi entender como os componentes de imagem interagem com o
 
 Bash
 git clone https://github.com/RafaelDesenvolvedor1/JoKemPo---Java.git
+
 2. Abra o projeto no Android Studio.
 
 3. Aguarde a sincronização do Gradle.
